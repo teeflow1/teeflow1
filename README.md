@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KOLAWOLE TEMIATOPE AYOBAMI
+- 👋 Hi, I’m KOLAWOLE TEMITOPE AYOBAMI
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development 
 - 💞️ I’m looking to collaborate on Full Stack Project
