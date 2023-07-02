@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Temitope</h1>
 <h3 align="center">I am a Python/Django Developer who love building clean, smart, responsive and professional web apps and very passionate about my work</h3>
-<img align=“right” alt="” width = “300” src= “https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fHww&w=1000&q=80”>
+<img align=“right” alt=“coding” width = “300” src= “https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ3d3I0Z3Nib3c1YzA5a3lkeHRncDFleGVkbnVnN3czZGJmY25rdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teeflow1&label=Profile%20views&color=0e75b6&style=flat" alt="teeflow1" /> </p>
 
