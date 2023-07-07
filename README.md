@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Temitope</h1>
+<h1 align="center">Hi 👋, My name is Temitope</h1>
 <h3 align="center">I am a Python/Django Developer who love building clean, smart, responsive and professional web apps and very passionate about my work</h3>
 <img align=“right” alt=“coding” width = “300” src= “https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ3d3I0Z3Nib3c1YzA5a3lkeHRncDFleGVkbnVnN3czZGJmY25rdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif”>
 
