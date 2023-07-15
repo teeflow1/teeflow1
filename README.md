@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teeflow1&label=Profile%20views&color=0e75b6&style=flat" alt="teeflow1" /> </p>
 
-- 👯 I’m looking to collaborate on **Backend Project**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolioapp-h283.onrender.com](https://portfolioapp-h283.onrender.com/)
 
