@@ -8,7 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://portfolioapp-h283.onrender.com](https://portfolioapp-h283.onrender.com/)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django**, DevOps**
 
 - 📫 How to reach me **temtopeayobami@gmail.com**
 
